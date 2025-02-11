@@ -60,4 +60,4 @@ Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso)
 <br/>
 <br/>
 
-<h3>Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/pedro-baraldi-sa/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.</h3>
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/pedro-baraldi-sa/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
