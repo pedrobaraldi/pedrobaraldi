@@ -15,11 +15,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">Sou um desenvolvedor front-end apaixonado por criar experiências inovadoras e diferenciadas. Meu foco está em explorar novas soluções que tornem a interação do usuário mais fluida, intuitiva e visualmente impactante. Gosto de experimentar ideias criativas, combinando design e tecnologia para oferecer interfaces que não sejam apenas funcionais, mas também cativantes. Busco sempre aprimorar minhas habilidades, explorando tendências e ferramentas que elevem a experiência visual a outro nível.</p>
+<p align="justify" >Sou um desenvolvedor front-end apaixonado por criar experiências inovadoras e diferenciadas. Meu foco está em explorar novas soluções que tornem a interação do usuário mais fluida, intuitiva e visualmente impactante. Gosto de experimentar ideias criativas, combinando design e tecnologia para oferecer interfaces que não sejam apenas funcionais, mas também cativantes. Busco sempre aprimorar minhas habilidades, explorando tendências e ferramentas que elevem a experiência visual a outro nível.</p>
 
 <br/>
 
