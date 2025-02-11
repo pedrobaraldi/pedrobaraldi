@@ -1,7 +1,5 @@
 ### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
 [<img align="left" height="94px" width="94px" alt="SIS Innov & Tech " src="https://github.com/user-attachments/assets/8ee278aa-0702-4c21-ae08-9ff65bd16922">](https://www.spacex.com/)
 
 **Frot-end Developer (Trainee C1)** \
