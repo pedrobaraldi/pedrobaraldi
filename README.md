@@ -4,18 +4,18 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
 
-**Software Engineer** \
-[**SpaceX**](https://www.spacex.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+**Frot-end Developer (Trainee C1)** \
+[**Sis-IT**](https://sis-it.com/) • Full-time \
+Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `Figma`, `Azure Dev`\
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
-**Frot-end Developer (Jr)** \
-[**Rocketseat**](https://rocketseat.com.br/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**IT Intern (Internship)** \
+[**Sis-IT**](https://sis-it.com/) • Part-time \
+Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `Figma`, `Azure Dev`\
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso)
 <br/>
 <br/>
 
