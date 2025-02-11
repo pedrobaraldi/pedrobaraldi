@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Sou um desenvolvedor front-end apaixonado por criar experiências inovadoras e diferenciadas. Meu foco está em explorar novas soluções que tornem a interação do usuário mais fluida, intuitiva e visualmente impactante. Gosto de experimentar ideias criativas, combinando design e tecnologia para oferecer interfaces que não sejam apenas funcionais, mas também cativantes. Busco sempre aprimorar minhas habilidades, explorando tendências e ferramentas que elevem a experiência visual a outro nível.</p>
 
 <br/>
 
