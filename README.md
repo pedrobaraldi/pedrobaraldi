@@ -19,4 +19,4 @@ Projetos em destaque: [Ignite](), [Bootcamp]()
 <br/>
 <br/>
 
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/pedro-baraldi-sa/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
