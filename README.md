@@ -23,10 +23,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
-
 ###
+
 <br/>
 <br/>
+
 ### Experiência de trabalho
 
 [<img align="left" height="94px" width="94px" alt="SIS Innov & Tech " src="https://github.com/user-attachments/assets/8ee278aa-0702-4c21-ae08-9ff65bd16922">](https://www.spacex.com/)
