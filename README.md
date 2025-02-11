@@ -1,7 +1,7 @@
 ### Experiência de trabalho
 
-[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![image](https://github.com/user-attachments/assets/23dd2ea0-d032-4345-a367-f69044fe3fbd)
-"/>](https://sis-it.com/)
+[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![sisconsultoria_logo](https://github.com/user-attachments/assets/47b6a2db-5169-4b63-bfac-361b7c9a660b)
+/>](https://sis-it.com/)
 
 
 **Frot-end Developer (Trainee C1)** \
@@ -10,7 +10,7 @@ Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `SCSS`, `Azure Dev`\
 Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![image](https://github.com/user-attachments/assets/8d479aad-9b1f-461a-9ad7-2354671fd76d)
+[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![sisconsultoria_logo](https://github.com/user-attachments/assets/47b6a2db-5169-4b63-bfac-361b7c9a660b)
 "/>](https://sis-it.com/)
 
 **IT intern ** \
