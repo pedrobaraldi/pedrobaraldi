@@ -1,7 +1,8 @@
-<div align="center" border-radius="50%">
+<div align="left" >
   <img src="https://github.com/user-attachments/assets/a9835a51-264f-462e-aeae-c88a1788a0c3">
 </div>
 
+<br/>
 
 <h2 align="center">👩‍💻 Sobre Mim</h2>
 
