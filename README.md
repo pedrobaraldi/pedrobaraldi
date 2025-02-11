@@ -1,18 +1,6 @@
 <div align="center">
   <img src="https://i.imgur.com/8BgVXcY.png">
 </div>
-
-###
-
-
-###
-
-
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <h2 align="center">👩‍💻 Sobre Mim</h2>
