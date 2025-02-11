@@ -14,7 +14,7 @@ Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [
 [<img align="left" height="94px" width="94px" alt="SIS Innov & Tech " src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
 
 **IT Intern (Internship)** \
-[**SIS Innov & Tech **](https://sis-it.com/) • Part-time \
+[**SIS Innov & Tech**](https://sis-it.com/) • Part-time \
 Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `Figma`, `Azure Dev`\
 Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso)
 <br/>
