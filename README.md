@@ -26,17 +26,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrobaraldi&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-###
-
-###
-###
-
-###
-
-###
-<br/>
 <br/>
 
 <h2 align="left">🛠 Linguagem e ferramentas</h3>
