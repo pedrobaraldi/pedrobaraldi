@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 "/>](https://www.spacex.com/)
 
 **Frot-end Developer (Trainee C1)** \
-[**SIS Innov & Tech **](https://sis-it.com/) • Full-time \
+[**SIS-IT**](https://sis-it.com/) • Full-time \
 Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `Figma`, `Azure Dev`\
 Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]()
 <br/>
