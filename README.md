@@ -19,7 +19,7 @@
 
 ###
 
-<p align="justify" >Sou um desenvolvedor front-end apaixonado por criar experiências inovadoras e diferenciadas. Meu foco está em explorar novas soluções que tornem a interação do usuário mais fluida, intuitiva e visualmente impactante. Gosto de experimentar ideias criativas, combinando design e tecnologia para oferecer interfaces que não sejam apenas funcionais, mas também cativantes. Busco sempre aprimorar minhas habilidades, explorando tendências e ferramentas que elevem a experiência visual a outro nível.</p>
+<p align="justify" >Sou um desenvolvedor front-end que ama criar experiências visuais diferenciadas e inovadoras. Gosto de pensar fora da caixa, testar ideias novas e transformar interfaces em algo que não só funcione bem, mas que também encante quem usa. Para mim, cada projeto é uma oportunidade de explorar novas formas de interação, sempre buscando unir tecnologia e design de um jeito diferente. </p>
 
 <br/>
 
