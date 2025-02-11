@@ -2,7 +2,8 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/user-attachments/assets/64b87434-eaf7-4d38-89df-893e7be46fcf)
+"/>](https://www.spacex.com/)
 
 **Frot-end Developer (Trainee C1)** \
 [**Sis-IT**](https://sis-it.com/) • Full-time \
