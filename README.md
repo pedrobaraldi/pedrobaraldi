@@ -1,10 +1,4 @@
-<div align="center" >
-  <img height="300px" width="300px"  src="https://github.com/user-attachments/assets/a9835a51-264f-462e-aeae-c88a1788a0c3">
-</div>
-
-<br/>
-
-<h2 align="center">👩‍💻 Sobre Mim</h2>
+<h1 align="center">👩‍💻 Sobre Mim</h1>
 
 ###
 
