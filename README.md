@@ -7,7 +7,7 @@
 **Frot-end Developer (Trainee C1)** \
 [**SIS-IT**](https://sis-it.com/) • Full-time \
 Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `SCSS`, `Azure Dev`\
-Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]()
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="SIS-IT" src="![image](https://github.com/user-attachments/assets/8d479aad-9b1f-461a-9ad7-2354671fd76d)
