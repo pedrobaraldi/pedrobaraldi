@@ -1,23 +1,22 @@
 ### Experiência de trabalho
 
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="![image](https://github.com/user-attachments/assets/23dd2ea0-d032-4345-a367-f69044fe3fbd)
+[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![image](https://github.com/user-attachments/assets/23dd2ea0-d032-4345-a367-f69044fe3fbd)
 "/>](https://sis-it.com/)
 
-**Software Engineer** \
+
+**Frot-end Developer (Trainee C1)** \
 [**SIS-IT**](https://sis-it.com/) • Full-time \
-Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
-Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
+Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `SCSS`, `Azure Dev`\
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]()
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="![image](https://github.com/user-attachments/assets/8d479aad-9b1f-461a-9ad7-2354671fd76d)
+[<img align="left" height="94px" width="94px" alt="SIS-IT" src="![image](https://github.com/user-attachments/assets/8d479aad-9b1f-461a-9ad7-2354671fd76d)
 "/>](https://sis-it.com/)
 
-**Frot-end Developer (Jr)** \
-[**SIS-IT**](https://sis-it.com/) • Contract \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React`\
-Projetos em destaque: [Ignite](), [Bootcamp]()
+**IT intern ** \
+[**SIS-IT**](https://sis-it.com/) • Part-time \
+Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `SCSS`, `Azure Dev`\
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso)
 <br/>
 <br/>
 
