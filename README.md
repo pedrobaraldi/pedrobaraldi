@@ -7,7 +7,7 @@ Na visão geral abaixo você encontrará minha experiência de trabalho mais rec
 **Frot-end Developer (Trainee C1)** \
 [**Sis-IT**](https://sis-it.com/) • Full-time \
 Linguagens & Tecnologias: `Vue.JS`, `Nuxt.JS`, `Figma`, `Azure Dev`\
-Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]
+Projetos em destaque: [Casos de sucesso](https://sis-it.com/casos-de-sucesso), [Smart Bula]()
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
